@@ -1,1 +1,2 @@
-# Aulas-Banco-de-Dados
+# Aulas Banco de Dados
+* Arquivos das aulas de Banco de Dados - MySQL
