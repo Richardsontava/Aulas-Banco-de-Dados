@@ -1,1 +1,3 @@
+Baixar o software BRModelo
+
 A Escola de tempo integral de Canindé necessita de um sistema para cadastro de disciplinas eletivas, essas disciplinas são cadastradas pelos professores e os alunos deverão logar no sistema e votar em qual disciplina o mesmo irá querer cursar, os alunos são divididos por séries e turmas, cada disciplina é cadastrada por um professor e este professor pode cadastrar várias disciplinas, os alunos podem votar em apenas 1 (uma) disciplina, ao final, a disciplina mais votada da turma será a que deverá ser cursada por todos da mesma.
